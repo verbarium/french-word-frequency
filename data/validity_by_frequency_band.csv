@@ -1,0 +1,7 @@
+frequency_band,zipf_min,zipf_max,words,scrabble_valid,scrabble_valid_pct,share_of_running_text_pct
+very common,5,,800,789,98.62,69.41
+common,4,5,5842,5472,93.67,18.02
+regular,3,4,23013,19550,84.95,7.236
+uncommon,2,3,47303,40702,86.05,1.662
+rare,,2,66393,57941,87.27,0.251
+all,,,143351,124454,86.82,96.58

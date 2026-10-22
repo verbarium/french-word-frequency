@@ -1,0 +1,9 @@
+reason,words,share_of_not_valid_pct,most_frequent_examples
+proper noun,9592,50.76,"france, europe, québec, allemagne, ok, afrique, paul, michel"
+other,5770,30.53,"qu, etc, françois, amérique, ed, orléans, haha, stéphane"
+longer than 15 letters,1219,6.45,"particulièrement, considérablement, systématiquement, vraisemblablement, approvisionnement, traditionnellement, commercialisation, télécommunications"
+foreign word,1095,5.79,"end, big, hey, red, wow, we, french, play"
+abbreviation,839,4.44,"ii, new, km, mme, mm, st, el, iii"
+dated or archaic,199,1.05,"parceque, hazard, appeller, ramon, débarasser, anglois, avoit, gentillement"
+slang or informal,174,0.92,"ouai, ti, taff, conf, tit, yé, moe, chui"
+regional,9,0.05,"drette, grillot, brusc, sagne, racontage, gogue, gaure, buer"
